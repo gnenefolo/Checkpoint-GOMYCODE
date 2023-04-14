@@ -1,0 +1,6 @@
+1- Explain the main difference between OSI model and TCP/IP model.
+=> Le modèle OSI est un modèle conceptuel qui n’est pratiquement pas utilisé pour la communication, tandis que TCP / IP est utilisé pour établir une connexion et communiquer via le réseau.
+2- Explain the application service layers and what happen when you write your url and click enter.
+3- Explain what is a domain name and the relation between the DNS and the @IP address.
+4- Explain the TCP interconnection between your local host and the server.
+5- How data transfer over internet (TCP Packet)
