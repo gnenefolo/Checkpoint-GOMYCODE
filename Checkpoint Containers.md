@@ -7,4 +7,6 @@
 6. Push it to docker hub
 
 # Response
-Commande to execute : **docker push gnenefolo/checkpoint-containers**
+Commande to push the image : **docker push gnenefolo/checkpoint-containers**
+
+Commande to run a container : **docker run -p 8585:80 -d gnenefolo/checkpoint-containers**
